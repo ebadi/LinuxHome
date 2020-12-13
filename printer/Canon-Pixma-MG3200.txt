@@ -1,0 +1,7 @@
+sudo apt-get install cups-backend-bjn
+sudo service cups restart
+
+If the printer is still not detected, turn off/on the printer.
+\ 
+The following driver will be chosen for the printer:
+Canon MG3200 series - CUPS+Gutenprint v5.3.3
